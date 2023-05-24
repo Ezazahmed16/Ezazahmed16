@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Ezaz Ahmed</h1>
 <h3 align="center">Full Stack(MERN) developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?w=740&t=st=1684958008~exp=1684958608~hmac=5b13a0e468667bb64a47b863b04964eb9df2a8a10607d884c959f09057bfa90d" />
+
 <br />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ezazahmed16" alt="ezazahmed16" /></a> </p>
 
